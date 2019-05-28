@@ -1,0 +1,6 @@
+"homepage": "https://github.com/fredrekt/Learning-React"
+"scripts": {
+    // ...
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
